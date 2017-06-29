@@ -1,0 +1,7 @@
+﻿  OpenCVApplication.cpp
+f:\university\utcluj\an3\semestrul2\pi\proiect\opencvapplication-vs2015_31_basic\opencvapplication.cpp(251): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OpenCVApplication.vcxproj -> F:\University\UTCluj\An3\Semestrul2\PI\Proiect\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> F:\University\UTCluj\An3\Semestrul2\PI\Proiect\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.

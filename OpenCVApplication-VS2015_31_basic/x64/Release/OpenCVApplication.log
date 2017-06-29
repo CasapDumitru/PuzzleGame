@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+  Generating code
+  All 125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenCVApplication.vcxproj -> F:\University\UTCluj\An3\Semestrul2\PI\Proiect\OpenCVApplication-VS2015_31_basic\x64\Release\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> F:\University\UTCluj\An3\Semestrul2\PI\Proiect\OpenCVApplication-VS2015_31_basic\x64\Release\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Release\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Release\opencv_world310.dll
+          2 file(s) copied.
